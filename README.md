@@ -1,22 +1,13 @@
-# ⌨️ Custom RP2040 Numpad
+# Custom numpad using an rp2040
 
-![Project Status](https://img.shields.io/badge/Status-Finished-success)
-![MCU](https://img.shields.io/badge/MCU-Seeed_XIAO_RP2040-blue)
-![Firmware](https://img.shields.io/badge/Firmware-QMK-ff69b4)
-
-A custom-designed, 16-key mechanical numpad powered by the RP2040. Designed with a custom PCB and a 3D-printed enclosure. 
+A numpad which i can place next to my existing keyboard or remove depending on what im doing, it uses a RP2040 controller with QMK firmware.
 
 <div align="center">
   <img src="https://github.com/user-attachments/assets/4033f329-93c3-43e9-b174-cde88e44a26b" alt="Numpad Finished" width="600"/>
 </div>
 
-## ✨ Features
-* **16 Keys:** Standard 4x4 matrix layout.
-* **Controller:** Seeed Studio XIAO RP2040.
-* **Firmware:** QMK with VIA support.
-* **Case:** Custom 3D-printed enclosure (Top & Bottom).
 
-## 🛠️ Bill of Materials (BOM)
+## BOM
 
 | Component | Quantity | Description | Link | Cost |
 | :--- | :---: | :--- | :--- | :--- |
@@ -28,9 +19,9 @@ A custom-designed, 16-key mechanical numpad powered by the RP2040. Designed with
 | **Screws** | 4 | M3x16 Bolts | https://www.hornbach.nl/p/dresselhaus-lenskopschroef-kruis-m3x16-mm-phillips-ph2-din-7985-rvs-a2-100-stuks/6836143/ | €0.18
 | **Total** |  |  |  | **€44.90** |
 
-## 🔌 Electronics & PCB
+## PCB and schematic
 
-The PCB was designed to fit the XIAO RP2040 footprint using a simple col/row matrix.
+I made a custom PCB with a 4x4 keyboard matrix and a rotary encoder so i can change my volume.
 
 | **PCB Layout** | **Schematic** |
 | :---: | :---: |
