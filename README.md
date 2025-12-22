@@ -25,5 +25,6 @@ I made a custom PCB with a 4x4 keyboard matrix and a rotary encoder so i can cha
 
 | **PCB Layout** | **Schematic** |
 | :---: | :---: |
-| <img src="https://github.com/user-attachments/assets/89ff4e5a-e7ec-4399-a694-27cdd695ae09" width="400"/> | <img src="https://github.com/user-attachments/assets/ad70a4db-67c3-49dc-b46a-77f52431e589" width="400"/> |
+| <img width="400"  alt="image" src="https://github.com/user-attachments/assets/34d84a00-c2c0-4771-a012-ef71ed3f2975" />| <img src="https://github.com/user-attachments/assets/ad70a4db-67c3-49dc-b46a-77f52431e589" width="400"/> |
+|<img width="992" height="637" alt="image" src="https://github.com/user-attachments/assets/7fa8a75c-91de-410e-93f3-cc1a20241d6d" />|
 
