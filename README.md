@@ -3,7 +3,7 @@
 A numpad which i can place next to my existing keyboard or remove depending on what im doing, it uses a RP2040 controller with QMK firmware.
 
 <div align="center">
-  <img width="688" height="913" alt="image" src="https://github.com/user-attachments/assets/f99bdb0a-3728-43b4-93b6-ce2ae241ef07" />
+  <img width="688" height="913" alt="image" src="https://github.com/user-attachments/assets/d68655de-d634-4d2a-8f12-ea7e71dbfa0e" />
 
 </div>
 
